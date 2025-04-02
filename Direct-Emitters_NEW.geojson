@@ -50943,26 +50943,6 @@
 
 
 {"geometry": 
-        {   "coordinates": [ -93.226389,
-                43.119722
-            ],
-            "type": "Point"},
-         "id": 1002560,
-         "properties": {
-                  "city" : "Mason City",
-                  "state" : "IA",
-                  "Emissions" : -1196.25,
-		  "Facility" : "GOLDEN GRAIN ENERGY, LLC",
-		  "Industry" : "Other, Waste"
-          },
-         "type": "Feature"
-        }
-
-
-,
-
-
-{"geometry": 
         {   "coordinates": [ -95.36789,
                 40.18925
             ],
